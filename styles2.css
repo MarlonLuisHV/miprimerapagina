@@ -49,3 +49,7 @@ main section .seccion-2 {
     display: flex;
     align-items: center;
 }
+
+main div .greeting p {
+    background-color: rgb(123, 226, 255);
+}
