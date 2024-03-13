@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 1;
+    font-family: "Madimi One", sans-serif
+}
+
+ol,
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    background-color: rgb(100, 63, 21);
+    align-items: center;
+    justify-content: space-between;
+}
+
+header a i{
+    color: blanchedalmond;
+    font-size: 3em;
+    padding: 0.2em;
+}
+
+header nav ul {
+    display: flex;
+    gap: 1.1em;
+}
+
+header nav ul {
+    color: blanchedalmond;
+}
+
+main section {
+    display: flex;
+    align-items: center;
+}
+
+div img {
+    width: 600px;
+    height: 600px;
+}
+
+main section .seccion-2 {
+    display: flex;
+    align-items: center;
+}
